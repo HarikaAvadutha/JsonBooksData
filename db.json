@@ -10,6 +10,7 @@
         "publishedDate": "2002",
       "price": 200.0,
       "quantity": 5,
+	    "cartCount": 0,
 	  "pageCount": 278,
 	  "img": "http://books.google.com/books/content?id=VPJ7jqVSl34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -23,6 +24,7 @@
         "publishedDate": "2009-01-01",
 		"price": 350.0,
       "quantity": 10,
+	    "cartCount": 0,
 		"pageCount": 609,
         "img": "http://books.google.com/books/content?id=Kw4sGGS0wQcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -37,6 +39,7 @@
         "publishedDate": "1987",
       "price": 150.0,
       "quantity": 4,
+	    "cartCount": 0,
 	  "pageCount": 287,
 	 "img": "http://books.google.com/books/content?id=oLfYZCgTyiQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -51,6 +54,7 @@
         "publishedDate": "1993",
       "price": 250.0,
       "quantity": 4,
+	    "cartCount": 0,
 	  "pageCount": 327,
 	  "img": "http://books.google.com/books/content?id=yokG1TkADYoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -64,6 +68,7 @@
         "publishedDate": "2015",
       "price": 150.0,
       "quantity": 4,
+	    "cartCount": 0,
 	  "pageCount": 400,
 	  "img": "http://books.google.com/books/content?id=x6XKBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -78,6 +83,7 @@
         "publishedDate": "1994",		
       "price": 450.0,
       "quantity": 7,
+	    "cartCount": 0,
 	  "pageCount": 330,
 		"img": "http://books.google.com/books/content?id=WJZ87nNSBiYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -92,6 +98,7 @@
         "publishedDate": "2000",
       "price": 370.0,
       "quantity": 5,
+	    "cartCount": 0,
 	  "pageCount": 280,
 	  "img": "http://books.google.com/books/content?id=v6mKNpODG2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -105,6 +112,7 @@
         "publishedDate": "1999",
       "price": 150.0,
       "quantity": 20,
+	    "cartCount": 0,
 	  "pageCount": 290,
 	  "img": "http://books.google.com/books/content?id=LNpsZ06FW0YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -118,6 +126,7 @@
         "publishedDate": "2000",
       "price": 240.0,
       "quantity": 10,
+	    "cartCount": 0,
 	  "pageCount": 314,
 	  "img": "http://books.google.com/books/content?id=7m1M6jPIFPwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -131,6 +140,7 @@
         "publishedDate": "2004",
       "price": 150.0,
       "quantity": 4,
+	    "cartCount": 0,
 	  "pageCount": 243,
 	  "img": "http://books.google.com/books/content?id=cAHCSGMl9gwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
